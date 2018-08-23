@@ -27,7 +27,7 @@ Diffusion-limited aggregation (DLA) is the process whereby particles undergoing 
 ![](https://github.com/daojingzhai/Dynamic-Simulation/blob/master/Monte%20Carlo%20method/DLA/Figure/Diffusion-limited_aggregation_1.png?raw=true)
 
 ### Molecular Dynamics Simulation
-- 2D Simple Liquid motion
+1. 2D Simple Liquid motion
 
 From statistical physics's view, I simulate the time-varying of a system of 2D simple molecular via Python.
 
